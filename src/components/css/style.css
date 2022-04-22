@@ -1,0 +1,47 @@
+.main-body{
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: rgb(65, 65, 65);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.temp-app-box{
+    margin-top: 40px;
+    width: 400px;
+    height: 600px;
+    border: 1px solid black;
+}
+
+.app-title{
+    margin: 50px 0;
+    color: rgb(175, 190, 248);
+    font-weight: 600;
+}
+
+.search-bar{
+    background-color: rgb(102, 102, 102);
+    margin: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+.display-temp-info{
+    color: rgb(195, 234, 234);
+}
+
+.place-name{
+    font-size: 40px;
+    margin: 30px 0;
+}
+
+.temp-num{
+    font-size: 80px;
+    margin: 25px 0;
+}
+
+.temp-details{
+    color: rgb(141 150 150);
+    font-size: 15px;
+}
